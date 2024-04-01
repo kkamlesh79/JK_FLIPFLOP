@@ -1,4 +1,4 @@
-# JK_FLIPFLOP# JK_FLIPFLOP
+# JK_FLIPFLOP
 # Aim
 To simulate and synthesis JK flipflop using vivado.
 
